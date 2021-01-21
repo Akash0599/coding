@@ -15,3 +15,7 @@ yy = int(input("Enter year: "))
 mm = int(input("Enter month: "))
 
 print(calendar.month(yy, mm))
+
+a = 10 
+b = 20
+print(a + b)
